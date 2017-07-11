@@ -26,7 +26,8 @@ table.room tr { background: #99C1FF; }
 table.room tr.sel { background: #EEEEEE; }
 table.room tr:hover { background: #80B2FF; }
 tr.column > td { padding:0; vertical-align:top;}
-.changed a, .changed { color:red; padding-left:20px; font-weight:bold; }
+.changed a, .changed { color:red; }
+.menu_Save_config .changed a, .menu_Save_config .changed { color:red; padding-left:20px; font-weight:bold; }
 .fhemlog { color:#B3D1FF; }
 .col2 { text-align:center; }
 
