@@ -1,0 +1,14 @@
+@import url("totallybluecommon.css");
+
+a:link, a:visited { color:#0052CC; text-decoration:none; }
+
+body     { font-size:15px;}
+/* #logo    { margin-top:10px; margin-left:40px; width:132px; height:132px;}
+           background-image:url(../images/default/fhemicon_hawkeye.png); } */
+#menu    { position:absolute; top:10px; left:8px; width:190px;}
+#hdr     { position:absolute; top:10px; left:230px; }
+#content { position:absolute; top:60px; left:230px; bottom:20px; right:0px; overflow-x:auto; overflow-y:auto; }
+#menuScrollArea { position:absolute; top:0px; left:0px; bottom:20px; width: 225px; height:100%; overflow-x:hidden; overflow-y:auto; } 
+
+div.dist { padding-top:0.3em; }
+button.dist { margin:10px; background:transparent; border:0px; cursor:pointer; }
