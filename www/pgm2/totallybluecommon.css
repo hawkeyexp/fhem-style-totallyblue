@@ -7,7 +7,15 @@ select   { font-family:Arial, sans-serif; font-size:15px; }
 #console { width:99%; top:2em; bottom:0px; position:absolute; overflow-y:auto; }
 #errmsg  { background-color: #000000; color: #EEEEEE;
            position:fixed; top:45px; left:232px; z-index: 10; font-size:20px; }
-.devType { padding-top:20px; color:#B3D1FF;}
+
+.devType a { padding-top:20px; color:#B3D1FF;}
+.devType a:visited { padding-top:20px; color:#B3D1FF;}
+.devType a:hover { padding-top:20px; color:#EEEEEE;}
+
+table.roomoverview .devType a { padding-top:20px; color:#1874CD;}
+table.roomoverview .devType a:visited { padding-top:20px; color:#1874CD;}
+table.roomoverview .devType a:hover { padding-top:20px; color:#EEEEEE;}
+
 a        { color:#0052CC; }
 a:hover  { color:#EEEEEE; }
 img      { border-style:none; }
