@@ -33,6 +33,7 @@ table.room { border:0px solid gray; width: 100%; background: #80B2FF; }
 table.room tr { background: #99C1FF; }
 table.room tr.sel { background: #EEEEEE; }
 table.room tr:hover { background: #80B2FF; }
+table.room tr.sel:hover { background: #EEEEEE; }
 tr.column > td { padding:0; vertical-align:top;}
 .changed a, .changed { color:red; }
 .menu_Save_config .changed a, .menu_Save_config .changed { color:red; padding-left:20px; font-weight:bold; }
