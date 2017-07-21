@@ -57,7 +57,7 @@ div.block { border:1px solid gray; background: #F8F8E0; padding:0.7em; }
 .makeTable  { display:inline; float:left; clear:left; /*detail-selector,slider*/
               margin-top:10px; margin-bottom:20px; color:#B3D1FF;}
 .block  { color:#0052CC;}
-.dval  { color:#000000;}
+.dval  { color:#000000; word-break: break-all; }
 .makeSelect { display:inline; float:left; clear:left; color:#B3D1FF; }
 select      { margin-left:5px; margin-right:5px; }
 .slider     { float:left; width:250px; height:26px; background-color:#99C1FF;}
