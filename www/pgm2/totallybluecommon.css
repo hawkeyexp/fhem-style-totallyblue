@@ -39,7 +39,8 @@ tr.column > td { padding:0; vertical-align:top;}
 .menu_Save_config .changed a, .menu_Save_config .changed { color:red; padding-left:20px; font-weight:bold; }
 .fhemlog { color:#B3D1FF; }
 .col2 { text-align:center; }
-.set { color:#000000; }
+/*.set { color:#000000; }*/
+div.makeSelect { color:#99C1FF; }
 
 /* Documentation */
 h2,h3,h4 { line-height:1.3; color:#B3D1FF;
@@ -59,7 +60,7 @@ div.block { border:1px solid gray; background: #F8F8E0; padding:0.7em; }
 .dval  { color:#000000;}
 .makeSelect { display:inline; float:left; clear:left; color:#B3D1FF; }
 select      { margin-left:5px; margin-right:5px; }
-.slider     { float:left; width:250px; height:26px; }
+.slider     { float:left; width:250px; height:26px; background-color:#99C1FF;}
 .colorpicker_ct .slider { background: url(../jscolor/ct_background.svg); }
 .colorpicker_ct_mired .slider { background: url(../jscolor/ct_mired_background.svg); }
 .colorpicker_hue .slider { background: url(../jscolor/hue_background.svg); }
