@@ -5,6 +5,6 @@ UPD 2017-07-21_14:38:53 6788 www/pgm2/totallybluecommon.css
 DEL ./www/pgm2/totallyblue_smallscreenstyle.css
 UPD 2017-07-15_20:20:54 3074 www/pgm2/totallyblue_smallscreenstyle.css
 DEL ./www/pgm2/totallybluestyle.css
-UPD 2017-07-15_09:54:51 761 www/pgm2/totallybluestyle.css
+UPD 2017-07-22_15:10:42 737 www/pgm2/totallybluestyle.css
 DEL ./www/pgm2/images/totallyblue.png
 UPD 2017-07-22_14:37:30 4403 www/pgm2/images/totallyblue.png
