@@ -103,6 +103,7 @@ span.sort-item-delete-link {
 pre { white-space: pre-wrap; }
 svg { height:28px; width:30px; vertical-align:middle; padding-left: 4px; padding-right: 10px; padding-top: 1px; padding-bottom: 1px;}
 svg:not([fill]):not(.jssvg) { fill:#0052CC; }
+button svg:not([fill]):not(.jssvg) { fill:#99C1FF; }
 
 svg.on,svg.FS20_on { fill:orange!important; }
 
@@ -150,7 +151,6 @@ div.detLink a { color:#B3D1FF; }
 
 div .log a { color:#EEEEEE; }
 #eventFilter {color: #EEEEEE; }
-
 
 select [value^=l0] { color: red; }
 select [value^=l1] { color: green; }
